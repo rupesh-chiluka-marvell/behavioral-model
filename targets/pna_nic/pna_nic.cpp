@@ -32,6 +32,8 @@
 
 extern int import_primitives();
 
+extern int import_primitives();
+
 namespace bm {
 
 namespace pna {
